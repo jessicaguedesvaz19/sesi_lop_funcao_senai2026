@@ -23,7 +23,7 @@ Escreva um programa com 4 funções que realizem as operações básicas de soma
 
 ## Solução: 
 
-#include<stdio.h>
+{#include<stdio.h>
 #include<windows.h>
 
 int soma(int a, int b) {
@@ -71,7 +71,7 @@ int main() {
 	}
     
     return 0;
-}
+}}
 
 ## Desafio 2:
 
